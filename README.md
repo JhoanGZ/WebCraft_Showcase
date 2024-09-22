@@ -33,9 +33,9 @@ Welcome to the **WebCraft Showcase**, my personal portfolio website where I show
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
-   ````
-   git clone https://github.com/JhoanGZ/WebCraft_Showcase.git
-   ````
+  ````
+  git clone https://github.com/JhoanGZ/WebCraft_Showcase.git
+  ````
 2. Open the project directory:
   ````
   cd WebCraft_Showcase
