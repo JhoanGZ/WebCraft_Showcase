@@ -44,17 +44,17 @@ Welcome to the **WebCraft Showcase**, my personal portfolio website where I show
 
 ## 🎯 Sections
 - Home
-  -- Displays a welcome message and a short description of myself.
+  : Displays a welcome message and a short description of myself.
 - About Me
-  -- Provides details about who I am, my journey, and my professional goals.
+  : Provides details about who I am, my journey, and my professional goals.
 - Skills
-  Lists and demonstrates my technical skills using progress bars for technologies like HTML, CSS, JavaScript, and more.
+  : Lists and demonstrates my technical skills using progress bars for technologies like HTML, CSS, JavaScript, and more.
 - Testimonial Section
-  Showcases feedback from key professionals in the industry.
+  : Showcases feedback from key professionals in the industry.
 - Portfolio
-  Displays the projects I've worked on, categorized into web development, SEO, app development, and more.
+  : Displays the projects I've worked on, categorized into web development, SEO, app development, and more.
 - Contact Me
-  A form that visitors can use to reach out to me, along with my contact details.
+  : A form that visitors can use to reach out to me, along with my contact details.
 
 ## 📝 License
 This project is licensed under the MIT License. See the LICENSE file for details.
