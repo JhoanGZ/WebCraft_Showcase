@@ -1,6 +1,6 @@
-# WebCraft Showcase - Jhoan Gutierrez Portfolio
+# WebCraft Showcase 
 
-Welcome to the **WebCraft Showcase**, my personal portfolio website where I showcase my skills, experience, and projects as a **Trainee Developer**. This website demonstrates my abilities and projects in web development, mobile development, SEO, and more.
+Welcome to the **WebCraft Showcase**, personal project website where I train my skills and apply my experience using multiple technologies.
 
 ## 🖥️ Technologies Used
 
