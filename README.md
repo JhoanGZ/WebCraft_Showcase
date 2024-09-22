@@ -44,9 +44,9 @@ Welcome to the **WebCraft Showcase**, my personal portfolio website where I show
 
 ## 🎯 Sections
 - Home
-  Displays a welcome message and a short description of myself.
+  -- Displays a welcome message and a short description of myself.
 - About Me
- Provides details about who I am, my journey, and my professional goals.
+  -- Provides details about who I am, my journey, and my professional goals.
 - Skills
   Lists and demonstrates my technical skills using progress bars for technologies like HTML, CSS, JavaScript, and more.
 - Testimonial Section
