@@ -11,7 +11,6 @@ Welcome to the **WebCraft Showcase**, my personal portfolio website where I show
 - **FontAwesome**: For icons across the website.
 - **Google Fonts**: To enhance typography.
 - **jQuery**: For DOM manipulation and smooth scrolling.
-- **PHP/Laravel, Python/Django, Flutter, Node.js**: Showcased in the skills section.
 
 ## 🌟 Features
 
