@@ -18,8 +18,8 @@ Welcome to the **WebCraft Showcase**, personal project website where I train my 
 - **About Me**: A section introducing myself and explaining my goals.
 - **Skills Section**: Demonstrates my proficiency in technologies like HTML, CSS, JavaScript, PHP, Laravel, Node.js, Flutter, and more.
 - **Testimonial Section**: Carousel of testimonials from industry professionals.
-- **Portfolio Section**: Highlights of the work I've done across various categories like web development, SEO, app development, etc.
-- **Contact Section**: A contact form and contact details to reach me directly.
+- **Portfolio Section**: Highlights a detailed UI/UX building focus.
+- **Contact Section**: A contact form and contact details, complying today's portfolio standard.
 
 ## 📁 Project Structure
 
